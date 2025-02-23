@@ -208,7 +208,9 @@ def get_base(thing, **kwargs):
         p3["shape"] = f"oobb_nut"        
         p3["radius_name"] = "m6"
         p3["hole"] = True
+        p3["overhang"] = True
         p3["m"] = "#"
+
         poss = []
         pos1 = copy.deepcopy(pos)
         shift_x = 30        

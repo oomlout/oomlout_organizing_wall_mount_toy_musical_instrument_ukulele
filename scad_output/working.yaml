@@ -19,7 +19,7 @@ parts:
       height: 1.5
       modes:
       - 3dpr
-      navigation: false
+      navigation: true
       oomp_classification: project
       oomp_color: oomlout_organizing_wall_mount_toy_musica
       oomp_description_extra: ''
@@ -27,11 +27,12 @@ parts:
       oomp_manufacturer: ''
       oomp_mode: project
       oomp_part_number: ''
-      oomp_run: false
+      oomp_run: true
       oomp_size: oomlout
       oomp_type: github
       overwrite: true
       thickness: 9
+      typ: all
       type: oomlout_organizing_wall_mount_toy_musica_base
       width: 5
     manufacturer: ''

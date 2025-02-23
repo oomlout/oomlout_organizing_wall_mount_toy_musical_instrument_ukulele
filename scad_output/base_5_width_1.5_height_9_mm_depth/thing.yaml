@@ -17,7 +17,7 @@ kwargs:
   height: 1.5
   modes:
   - 3dpr
-  navigation: false
+  navigation: true
   oomp_classification: project
   oomp_color: oomlout_organizing_wall_mount_toy_musica
   oomp_description_extra: ''
@@ -25,11 +25,12 @@ kwargs:
   oomp_manufacturer: ''
   oomp_mode: project
   oomp_part_number: ''
-  oomp_run: false
+  oomp_run: true
   oomp_size: oomlout
   oomp_type: github
   overwrite: true
   thickness: 9
+  typ: all
   type: oomlout_organizing_wall_mount_toy_musica_base
   width: 5
 manufacturer: ''
@@ -2104,7 +2105,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2112,7 +2113,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2120,9 +2121,10 @@ thing:
     - 0
     - 0
     - 0
-    save_type: none
+    save_type: all
     shape: oobb_plate
     thickness: 9
+    typ: all
     type: positive
     width: 5
   - depth: 9
@@ -2132,7 +2134,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2140,7 +2142,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2149,9 +2151,10 @@ thing:
     - 0
     - 9
     radius_name: m3_screw_wood
-    save_type: none
+    save_type: all
     shape: oobb_screw_countersunk
     thickness: 9
+    typ: all
     type: negative
     width: 5
   - depth: 9
@@ -2161,7 +2164,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2169,7 +2172,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2178,9 +2181,10 @@ thing:
     - 0
     - 9
     radius_name: m3_screw_wood
-    save_type: none
+    save_type: all
     shape: oobb_screw_countersunk
     thickness: 9
+    typ: all
     type: negative
     width: 5
   - filter: ''
@@ -2189,7 +2193,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2197,7 +2201,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2206,9 +2210,10 @@ thing:
     - 0
     - 0
     radius_name: m6
-    save_type: none
+    save_type: all
     shape: oobb_nut
     thickness: 9
+    typ: all
     type: negative
     width: 5
   - filter: ''
@@ -2217,7 +2222,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2225,7 +2230,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2234,9 +2239,10 @@ thing:
     - 0
     - 0
     radius_name: m6
-    save_type: none
+    save_type: all
     shape: oobb_nut
     thickness: 9
+    typ: all
     type: negative
     width: 5
   - filter: ''
@@ -2245,7 +2251,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2253,7 +2259,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2262,9 +2268,10 @@ thing:
     - 0
     - 65
     radius_name: m6
-    save_type: none
+    save_type: all
     shape: oobb_nut
     thickness: 9
+    typ: all
     type: negative
     width: 5
     zz: top
@@ -2274,7 +2281,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2282,7 +2289,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2291,9 +2298,10 @@ thing:
     - 0
     - 65
     radius_name: m6
-    save_type: none
+    save_type: all
     shape: oobb_nut
     thickness: 9
+    typ: all
     type: negative
     width: 5
     zz: top
@@ -2302,7 +2310,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2310,7 +2318,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2319,9 +2327,10 @@ thing:
     - 0
     - 32.5
     radius: 7.0
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 9
+    typ: all
     type: positive
     width: 5
   - depth: 65
@@ -2329,7 +2338,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2337,7 +2346,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2346,9 +2355,10 @@ thing:
     - 0
     - 32.5
     radius: 7.0
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 9
+    typ: all
     type: positive
     width: 5
   - depth: 6
@@ -2356,7 +2366,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2364,7 +2374,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2373,9 +2383,10 @@ thing:
     - 0
     - 65
     radius: 12.5
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 9
+    typ: all
     type: positive
     width: 5
     zz: top
@@ -2384,7 +2395,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2392,7 +2403,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2401,9 +2412,10 @@ thing:
     - 0
     - 65
     radius: 12.5
-    save_type: none
+    save_type: all
     shape: oobb_cylinder
     thickness: 9
+    typ: all
     type: positive
     width: 5
     zz: top
@@ -2411,7 +2423,7 @@ thing:
     height: 1.5
     modes:
     - 3dpr
-    navigation: false
+    navigation: true
     oomp_classification: project
     oomp_color: oomlout_organizing_wall_mount_toy_musica
     oomp_description_extra: ''
@@ -2419,7 +2431,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: false
+    oomp_run: true
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -2427,24 +2439,25 @@ thing:
     - 0
     - 0
     - 9
-    save_type: none
+    save_type: all
     shape: oobb_slice
     thickness: 9
+    typ: all
     type: n
     width: 5
   components_string:
-  - oobb_plate_shape_positive_type_9_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_15_0_9_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_-15_0_9_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
-  - oobb_nut_shape_negative_type_m6_radius_name_30_0_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
-  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
-  - oobb_nut_shape_negative_type_m6_radius_name_30_0_65_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
-  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_65_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
-  - oobb_cylinder_shape_positive_type_65_depth_30_0_32.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
-  - oobb_cylinder_shape_positive_type_65_depth_-30_0_32.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
-  - oobb_cylinder_shape_positive_type_6_depth_30_0_65_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_12.5_radius_top_zz
-  - oobb_cylinder_shape_positive_type_6_depth_-30_0_65_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_12.5_radius_top_zz
-  - oobb_slice_shape_n_type_0_0_9_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color
+  - oobb_plate_shape_positive_type_9_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_15_0_9_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_-15_0_9_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
+  - oobb_nut_shape_negative_type_m6_radius_name_30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
+  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
+  - oobb_nut_shape_negative_type_m6_radius_name_30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
+  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
+  - oobb_cylinder_shape_positive_type_65_depth_30_0_32.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
+  - oobb_cylinder_shape_positive_type_65_depth_-30_0_32.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
+  - oobb_cylinder_shape_positive_type_6_depth_30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_12.5_radius_top_zz
+  - oobb_cylinder_shape_positive_type_6_depth_-30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_12.5_radius_top_zz
+  - oobb_slice_shape_n_type_0_0_9_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color
   description: oomlout organizing wall mount toy musica base 5x1.5x9
   description_extra: ''
   description_main: 5_width_1.5_height_9_mm_depth

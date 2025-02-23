@@ -384,6 +384,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -426,6 +494,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -468,6 +604,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -521,6 +725,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -563,6 +835,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -605,6 +945,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -0.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 5
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -658,6 +1066,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -700,6 +1176,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -742,6 +1286,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -795,6 +1407,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -837,6 +1517,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -879,6 +1627,74 @@ thing:
         sides: 6
         type: positive
         width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - -5.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - -5.6
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
+      - - - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -5.0
+                  - 0
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 10
+                  - 0.3
+                  type: positive
+                  width: 5
+          - - - - height: 1.5
+                  inclusion: 3dpr
+                  m: '#'
+                  pos:
+                  - -2.875
+                  - -2.875
+                  - 0.3
+                  rotX: 0
+                  rotY: 0
+                  rotZ: 0
+                  shape: cube
+                  size:
+                  - 5.75
+                  - 5.75
+                  - 0.3
+                  type: positive
+                  width: 5
       - - h: 200
           height: 1.5
           inclusion: laser
@@ -1390,6 +2206,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1432,6 +2316,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1474,6 +2426,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1527,6 +2547,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1569,6 +2657,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1611,6 +2767,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -0.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 5
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1664,6 +2888,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1706,6 +2998,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1748,6 +3108,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1801,6 +3229,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1843,6 +3339,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -1885,6 +3449,74 @@ thing:
           sides: 6
           type: positive
           width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - -5.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - -5.6
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
+        - - - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -5.0
+                    - 0
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 10
+                    - 0.3
+                    type: positive
+                    width: 5
+            - - - - height: 1.5
+                    inclusion: 3dpr
+                    m: '#'
+                    pos:
+                    - -2.875
+                    - -2.875
+                    - 0.3
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 5.75
+                    - 5.75
+                    - 0.3
+                    type: positive
+                    width: 5
         - - h: 200
             height: 1.5
             inclusion: laser
@@ -2204,6 +3836,7 @@ thing:
     oomp_run: true
     oomp_size: oomlout
     oomp_type: github
+    overhang: true
     overwrite: true
     pos:
     - 30
@@ -2233,6 +3866,7 @@ thing:
     oomp_run: true
     oomp_size: oomlout
     oomp_type: github
+    overhang: true
     overwrite: true
     pos:
     - -30
@@ -2262,6 +3896,7 @@ thing:
     oomp_run: true
     oomp_size: oomlout
     oomp_type: github
+    overhang: true
     overwrite: true
     pos:
     - 30
@@ -2292,6 +3927,7 @@ thing:
     oomp_run: true
     oomp_size: oomlout
     oomp_type: github
+    overhang: true
     overwrite: true
     pos:
     - -30
@@ -2449,10 +4085,10 @@ thing:
   - oobb_plate_shape_positive_type_9_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color
   - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_15_0_9_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
   - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_9_depth_-15_0_9_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_perimeter_holes
-  - oobb_nut_shape_negative_type_m6_radius_name_30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
-  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole
-  - oobb_nut_shape_negative_type_m6_radius_name_30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
-  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_top_zz
+  - oobb_nut_shape_negative_type_m6_radius_name_30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_true_overhang
+  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_true_overhang
+  - oobb_nut_shape_negative_type_m6_radius_name_30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_true_overhang_top_zz
+  - oobb_nut_shape_negative_type_m6_radius_name_-30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_true_hole_true_overhang_top_zz
   - oobb_cylinder_shape_positive_type_65_depth_30_0_32.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
   - oobb_cylinder_shape_positive_type_65_depth_-30_0_32.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_7.0_radius
   - oobb_cylinder_shape_positive_type_6_depth_30_0_65_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_5_width_1.5_height_9_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_organizing_wall_mount_toy_musica_oomp_color_12.5_radius_top_zz
